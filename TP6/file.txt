@@ -1,0 +1,2 @@
+Python est un langage de programmation interprte,multiparadigme et multiplateformes.
+Il favorise la programmation impérative,structurée,fonctinnelle et orienté objet

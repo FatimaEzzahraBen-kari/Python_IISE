@@ -1,0 +1,4 @@
+C est un langage compil�
+Java est un langage compil� et interpret�
+python est un langage interpret�
+POO contient des classes et des objets

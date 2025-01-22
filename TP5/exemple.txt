@@ -1,0 +1,8 @@
+Exercice 4 : Gestion de Produits avec Encapsulation
+Créez une classe "Produit" avec des attributs privés pour le nom et le prix.
+Ajoutez des méthodes pour calculer le prix avec une remise. La remise doit être appliquée
+uniquement si le prix est supérieur à un certain montant.
+Exercice 5 : Classe "Employe" et Sous-classe "Manager"
+Créez une classe "Employe" avec des attributs pour le nom, le prénom, et le salaire.
+Créez une sous-classe "Manager" qui hérite d"'Employe" et ajoute un attribut pour la liste des
+employés sous sa supervision. Ajoutez des méthodes pour ajouter et afficher les employés supervisés.
